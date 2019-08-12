@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Infinite Music Player</string>
+    <string name="todo">TODO</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+</resources>
